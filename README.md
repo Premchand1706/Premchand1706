@@ -1,14 +1,34 @@
-- 👋 Hi, I’m Premchand
-- 👀 I’m interested in software development,Exploring AI,Web development(Frontend Development).
-- 🌱 I’m currently learning Backend Development(Backend frameworks like Node.js),Database optimization and management using MySQL.
-- 💞️ I’m looking to collaborate on Front-End(HTML,CSS,JavaScript) Projects to build stunning and responsive interfaces. 
-- 📫 How to reach me:
-  - Email: [premchand17062005y@gamil.com](mailto:premchand17062005y@gmail.com)  
-  - LinkedIn: [https://www.linkedin.com/in/premchand-yedoti-8283b4296/](https://www.linkedin.com/in/premchand-yedoti-8283b4296/)  
-  - GitHub: [github.com/Premchand1706](https://github.com/Premchand1706)
-  ** "Feel free to connect for collaboration or to chat about tech!" **
-- 😄 Pronouns:He/Him
-- ⚡ Fun fact: I enjoy experimenting with UI designs and learning how to improve back-end performance.
-              - When I’m not coding, I’m exploring new front-end libraries 
+👋 Hi, I’m Premchand
 
-  ***Thank you for visiting my profile! Let’s create something amazing together! 🚀***
+💻 Computer Science undergraduate passionate about **software development, data-driven systems, and intelligent automation**.
+
+  I’m interested in **Software Engineering, Data Analysis, Data Science, Data Engineering, and AI-powered applications**.
+
+🌱 I’m currently learning **Backend Development with Node.js, database optimization using MySQL, and advanced Python for data processing and automation**.
+
+📊 I enjoy working with **SQL, Python, and data analysis tools** to extract insights, build efficient data workflows, and develop scalable applications.
+
+  I’m looking to collaborate on:
+
+* Data Analysis and Data Engineering projects
+* Full-Stack Web Development projects
+* Automation tools and AI-powered applications
+
+🛠️ Tech Stack
+
+* **Languages:** Python, C, JavaScript
+* **Data:** SQL, MongoDB, Pandas, NumPy
+* **Web:** HTML, CSS, JavaScript, React, Node.js
+* **Tools:** Git, Linux, REST APIs
+
+📫 How to reach me
+
+* **Email:** [premchand17062005y@gmail.com](mailto:premchand17062005y@gmail.com)
+* **LinkedIn:** https://www.linkedin.com/in/premchand-yedoti-8283b4296/
+* **GitHub:** https://github.com/Premchand1706
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I enjoy exploring how **data, AI, and automation can improve real-world systems**. When I’m not coding, I experiment with UI designs and learn new technologies.
+
+🚀 Always open to learning, collaboration, and building impactful tech projects!
