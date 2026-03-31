@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - E-commerce Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color:rgb(238, 237, 213)
+        }
+        nav {
+            background-color: #000000;
+            color: white;
+            padding: 1em;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        .container {
+            padding: 20px;
+            max-width: 800px;
+            margin: 50px auto;
+            text-align: center;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-top: 15px;
+            font-weight: bold;
+        }
+        input, textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        textarea {
+            resize: vertical;
+            min-height: 100px;
+        }
+        .btn {
+            padding: 10px 20px;
+            background-color: #28a745;
+            color: rgba(19, 1, 1, 0.747);
+            text-decoration: none;
+            border-radius: 5px;
+            border: none;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        .btn:hover {
+            background-color: #218838;
+        }
+        footer {
+            background-color: #000000;
+            color: white;
+            padding: 1em;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navbar -->
+    <nav>
+        <a href="file:///C:/Users/Hp/OneDrive/Desktop/wt/website4pages/website1.html">Home</a>
+        <a href="file:///C:/Users/Hp/OneDrive/Desktop/wt/website4pages/website2.html">Products</a>
+        <a href="file:///C:/Users/Hp/OneDrive/Desktop/wt/website4pages/website4.html">Cart</a>
+        <a href="file:///C:/Users/Hp/OneDrive/Desktop/wt/website4pages/website5.html">Login</a>
+        <a href="file:///C:/Users/Hp/OneDrive/Desktop/wt/website4pages/website7.html">Contact Us</a>
+    </nav>
+
+    <!-- Contact Us Section -->
+    <div class="container">
+        <h1>Contact Us</h1>
+        <p>If you have any questions or need support, please fill out the form below and we'll get back to you as soon as possible.</p>
+        <form action="#" method="post">
+            <label for="name">Full Name</label>
+            <input type="text" id="name" name="name" placeholder="Your full name" required>
+
+            <label for="email">Email Address</label>
+            <input type="email" id="email" name="email" placeholder="Your email address" required>
+
+            <label for="subject">Subject</label>
+            <input type="text" id="subject" name="subject" placeholder="Subject of your message" required>
+
+            <label for="message">Message</label>
+            <textarea id="message" name="message" placeholder="Write your message here" required></textarea>
+
+            <button type="submit" class="btn"><b>Send Message</b></button>
+        </form>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        &copy; 2024 E-commerce Website. All rights reserved.
+    </footer>
+</body>
+</html>
