@@ -1,34 +1,84 @@
-👋 Hi, I’m Premchand
+# 👋 Hi, I'm Premchand Yedoti
 
-💻 Computer Science undergraduate passionate about **software development, data-driven systems, and intelligent automation**.
+### Data Analytics & Business Intelligence Enthusiast | Machine Learning Enthusiast | Full-Stack Development | Research & Problem Solving
 
-  I’m interested in **Software Engineering, Data Analysis, Data Science, Data Engineering, and AI-powered applications**.
+I’m a **final-year B.Tech Computer Science Engineering student at Jain (Deemed-to-be University), Bengaluru**, passionate about **Data Analytics, Business Intelligence, Machine Learning, and Data-Driven Decision Making**.
 
-🌱 I’m currently learning **Backend Development with Node.js, database optimization using MySQL, and advanced Python for data processing and automation**.
+I enjoy transforming raw data into meaningful insights, building analytical solutions, and applying technology to solve real-world problems. My interests span across **data analysis, machine learning, big data, business intelligence, and full-stack development**.
 
-📊 I enjoy working with **SQL, Python, and data analysis tools** to extract insights, build efficient data workflows, and develop scalable applications.
+### 🔍 What I Work On
 
-  I’m looking to collaborate on:
+* 📊 **Data Analytics & Business Intelligence** — SQL, Excel, Power BI, DAX, KPI dashboards and business reporting
+* 🤖 **Machine Learning** — Data preprocessing, EDA, feature engineering, classification and model evaluation
+* 🧠 **ML Research** — Exploring machine learning approaches for real-world problems and research-oriented projects
+* ⚙️ **Big Data Analytics** — Apache Spark, PySpark, Hadoop and Hive
+* 💻 **Full-Stack Development** — React.js, Node.js, REST APIs and SQL
+* 📈 **Data-Driven Decision Making** — Converting analytical findings into actionable business insights
+* 🔎 **Research & Problem Solving** — Working with large datasets and solving ambiguous, open-ended problems
 
-* Data Analysis and Data Engineering projects
-* Full-Stack Web Development projects
-* Automation tools and AI-powered applications
+### 🛠️ Technical Skills
 
-🛠️ Tech Stack
+**Languages:**
+Python • SQL 
 
-* **Languages:** Python, C, JavaScript
-* **Data:** SQL, MongoDB, Pandas, NumPy
-* **Web:** HTML, CSS, JavaScript, React, Node.js
-* **Tools:** Git, Linux, REST APIs
+**Data & Analytics:**
+Pandas • NumPy • Excel • Power BI • DAX • Statistical Analysis • EDA • Data Cleaning • Data Visualization
 
-📫 How to reach me
+**Machine Learning:**
+Scikit-learn • XGBoost • CatBoost • LightGBM • MLlib • Feature Engineering • Model Evaluation
 
-* **Email:** [premchand17062005y@gmail.com](mailto:premchand17062005y@gmail.com)
-* **LinkedIn:** https://www.linkedin.com/in/premchand-yedoti-8283b4296/
-* **GitHub:** https://github.com/Premchand1706
+**Big Data:**
+Apache Spark • PySpark • Hadoop • Hive • HDFS • HiveQL
 
-😄 Pronouns: He/Him
+**Web Development:**
+HTML • CSS • JavaScript • React.js • Node.js • Express.js • REST APIs
 
-⚡ Fun fact: I enjoy exploring how **data, AI, and automation can improve real-world systems**. When I’m not coding, I experiment with UI designs and learn new technologies.
+**Databases:**
+MySQL • SQL • MongoDB
 
-🚀 Always open to learning, collaboration, and building impactful tech projects!
+**Tools:**
+Git • GitHub • VS Code • Jupyter Notebook
+
+### 📚 Research
+
+I have worked on research-oriented machine learning projects involving:
+
+* **Healthcare Analytics:** Diabetes detection using Machine Learning and Kernel PCA
+* **Cybersecurity Analytics:** Machine Learning-based intrusion detection for IoT networks
+* Large-scale data processing, feature analysis, model benchmarking and performance evaluation
+
+My research interests are primarily focused on **Machine Learning, Data Analytics, AI-driven systems, and applying intelligent methods to real-world problems**.
+
+### 🚀 Featured Areas
+
+📊 Data Analytics & BI
+🤖 Machine Learning & AI
+🔬 Research & Experimentation
+⚡ Big Data & Distributed Computing
+💻 Full-Stack Development
+📈 Business & Data-Driven Decision Making
+
+### 🤝 Open to Collaboration
+
+I’m interested in collaborating on:
+
+* Data Analytics & Business Intelligence projects
+* Machine Learning and AI applications
+* Data Engineering & Big Data projects
+* Full-Stack applications
+* Research-oriented projects
+* Real-world data-driven solutions
+
+### 📫 Connect With Me
+
+📧 **Email:** [premchand17062005y@gmail.com](mailto:premchand17062005y@gmail.com)
+💼 **LinkedIn:** linkedin.com/in/premchand-yedoti-8283b4296
+💻 **GitHub:** github.com/Premchand1706
+
+---
+
+### ⚡ My Approach
+
+> **Analyze the data. Understand the problem. Build the solution. Measure the impact. Make better decisions.**
+
+🌱 Continuously learning, experimenting, researching, and building solutions at the intersection of **Data, Machine Learning, Business Intelligence, and Software Engineering**.
