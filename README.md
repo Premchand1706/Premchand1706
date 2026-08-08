@@ -72,8 +72,9 @@ I’m interested in collaborating on:
 ### 📫 Connect With Me
 
 📧 **Email:** [premchand17062005y@gmail.com](mailto:premchand17062005y@gmail.com)
+
 💼 **LinkedIn:** linkedin.com/in/premchand-yedoti-8283b4296
-💻 **GitHub:** github.com/Premchand1706
+
 
 ---
 
